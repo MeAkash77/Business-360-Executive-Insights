@@ -1,9 +1,9 @@
-# Business-Insights-360-of-AtliQ-Hardware
+# Business-Insights-360
 [Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmIyMWEwYWQtNDQ0OC00MTU2LWIwMWMtMmVjMTIyZmE1M2FmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-AtliQ Hardware, a rapidly expanding company, has embraced PowerBi as a powerful tool for data analytics, positioning itself for a competitive edge and well-informed decision-making. This ambitious project aims to illuminate various aspects, including finance, sales, marketing, and the supply chain.
+A rapidly expanding company, has embraced PowerBi as a powerful tool for data analytics, positioning itself for a competitive edge and well-informed decision-making. This ambitious project aims to illuminate various aspects, including finance, sales, marketing, and the supply chain.
 
-I, Manisha Deepshikha Patra, took the lead on this initiative, drawing from my training in the Codebasics PowerBi Course, and harnessed an array of tools and techniques:
+I, Akash, took the lead on this initiative, drawing from my training in the Codebasics PowerBi Course, and harnessed an array of tools and techniques:
 
 *Technology Stack:*
 - SQL
